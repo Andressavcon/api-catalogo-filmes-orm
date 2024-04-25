@@ -70,7 +70,9 @@ npm run dev
 
 - Teste de requisições
 
- <Insomnia>
+<p>
+  <a href="https://github.com/Andressavcon/api-catalogo-filmes-orm/blob/main/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Insomnia"></a>
+</p>
 
 ## Endpoits 📝
 
