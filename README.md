@@ -74,6 +74,14 @@ npm run dev
   <a href="https://github.com/Andressavcon/api-catalogo-filmes-orm/blob/main/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Insomnia"></a>
 </p>
 
+<details>
+ <summary> OBS: Verificação </summary>
+ <p> Verificar o BEARER TOKEN da Rotas de Filme.
+  A tag <b>Response => Body attibute</b> precisa ter a seguinte configuração:</p>
+
+<img src='./src/imgInsomnia/tagBodyAttibute.png'>
+</details>
+
 ## Endpoits 📝
 
 ### **Cadastro de usuário**
